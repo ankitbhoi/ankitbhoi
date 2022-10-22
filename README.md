@@ -31,11 +31,13 @@ ___________
 <br>
 
 ## 📈 Statistics
-<img align="right" alt="GIF" src="https://i.postimg.cc/QN7XsLnK/code.gif" width="400" height="250" />
+<p align="center">
+	<img  src="https://i.postimg.cc/QN7XsLnK/code.gif" width="400" height="250" alt="GIF" />
+</p>
 <br>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitbhoi&count_private=true&theme=dark&show_icons=true" alt="MyGithub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbhoi&hide_border=true&theme=dark&show_icons=true" />
+  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbhoi&hide_border=true&theme=dark&show_icons=true" />
 </p>
 
 <div align = "center">
